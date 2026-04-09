@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oziel Bravo Blanco, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Hi, I'm Oziel Bravo Blanco, an <a href=https://www.linkedin.com/in/oziel-bravo-blanco-641b113b4/>IT Professional</a></h1>
 
 
 
